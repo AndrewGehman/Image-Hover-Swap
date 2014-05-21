@@ -15,4 +15,4 @@ Add a link to this .js file nd to the jQuery library in your html document.
 
 3. add the attribute of class="swap" to the html of any images you with to "swap"
  
-This will work with any/all images on the page witj the swap class & appropriate image file names. 
+This will work with any/all images on the page with the swap class & appropriate image file names. 
